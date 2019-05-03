@@ -54,4 +54,61 @@
     "country": "",
     "email": ""
   }
-}]
+},
+{
+  "title": "FluWatchers",
+  "url": "http://webservices.maps.canada.ca/arcgis/services/PHAC/fluwatchers_en/MapServer/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities",
+  "directoryUrl": "http://directory.spatineo.com/service/102676",
+  "abstract": "FluWatchers is an online health surveillance system. It helps monitor the spread of flu-like illness across Canada. FluWatchers relies on Canadians to volunteer 15 seconds of their time each week to answer 2 questions about their health. \nSign up to be a Fluwatcher.\n\nNote: Only areas where there are five or more weekly reporters are included in the map. The reported rates of cough and fever are a reflection of the surveillance data available to FluWatch at the time of production. Delays in reporting of data may cause data to change retrospectively.",
+  "extent": [
+  	40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545
+  ],
+  "serviceInterfaceType": "WMS",
+  "interfaceVersion": "1.3.0",
+  "images": [{
+    "url": "http://directory.spatineo.com/service/102676/images/1"
+  },{
+    "url": "http://directory.spatineo.com/service/102676/images/2"
+  },{
+    "url": "http://directory.spatineo.com/service/102676/images/3"
+  }],
+  "layers": [
+  {
+    "title": "FluWatchers",
+    "name": "0",
+    "queryable": true
+  }],
+  "notificationFeed": "https://monitor.spatineo.com/api/public/notifications/102676/atom",
+  "availability": {
+    "week": {
+      "hoursUp": 164.680245,
+      "hoursDown": 3.3345402777777777,
+      "hoursMaintenance": 0
+    },
+    "year": {
+      "hoursUp": 1243.7624194444445,
+      "hoursDown": 183.8925722222222,
+      "hoursMaintenance": 0
+    }  
+  },
+  "keywords": [
+    "Influenza,Flu,Virus,Infectious diseases,Communicable diseases,Contagious diseases,Epidemiology"
+  ],
+  "fees": "",
+  "accessConstraints": "Open Government Licence - Canada (http://open.canada.ca/en/open-government-licence-canada)",
+  "supportedLanguages": [
+    
+  ],
+  "contactInformation": {
+    "owner": "Government of Canada; Natural Resources Canada",
+    "contactPerson": "",
+    "contactOrganisation": "Government of Canada; Natural Resources Canada",
+    "addressType": "",
+    "address": "",
+    "postCode": "",
+    "city": "",
+    "country": "",
+    "email": "NRCan.fgp-pgf.RNCan@Canada.ca"
+  }
+}
+]
