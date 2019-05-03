@@ -23,7 +23,18 @@
   }
   ],
   "notificationFeed": "https://monitor.spatineo.com/api/public/notifications/35158/atom",
-  "availability": null,
+  "availability": {
+    "week": {
+      "hoursUp": 164.680245,
+      "hoursDown": 3.3345402777777777,
+      "hoursMaintenance": 0
+    },
+    "year": {
+      "hoursUp": 1243.7624194444445,
+      "hoursDown": 183.8925722222222,
+      "hoursMaintenance": 0
+    }  
+  },
   "keywords": [
     ""
   ],
