@@ -33,5 +33,25 @@
     "queryable": true
   }
   ]
-} 
+},
+{
+  "title": "Precipitación",
+  "url": "http://betaserver.icgc.cat/dades/Precipitacio_anual_WGS84.tif",
+  "directoryUrl": "",
+  "abstract": "Precipitación",
+  "extent": [
+  	40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545
+  ],
+  "serviceInterfaceType": "Raster",
+  "layers": [
+    {
+    "title": "Precipitación",
+    "name": "Precipitacion",
+    "queryable": true
+  }
+  ]
+}
+ 
+ 
+ 
 ]
