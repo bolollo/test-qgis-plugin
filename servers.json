@@ -7,7 +7,7 @@
   	-89,-180,89,180
   ],
   "serviceInterfaceType": "WMS",
-  "interfaceVersion": "1.3.0",
+  "interfaceVersion": "1.1.1",
   "images": [{
     "url": "http://directory.spatineo.com/service/35158/images/1"
   },{
