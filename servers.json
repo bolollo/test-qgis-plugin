@@ -1,0 +1,38 @@
+[{
+"title": "",
+  "url": "http://geoserveis.icc.cat/icc_mapesmultibase/noutm/wms/service",
+  "abstract": "WMS",
+  "extent": [
+  	-89,-180,89,180
+  ],
+  "serviceInterfaceType": "WMS",
+  "interfaceVersion": "1.3.0",
+  "images": [],
+  "layers": [
+  {
+    "title": "Topografic",
+    "name": "topo",
+    "queryable": false
+  }
+  ],
+  "availability": null,
+  "keywords": [
+    ""
+  ],
+  "fees": "",
+  "accessConstraints": "",
+  "supportedLanguages": [
+    
+  ],
+  "contactInformation": {
+    "owner": "",
+    "contactPerson": "",
+    "contactOrganisation": "",
+    "addressType": "",
+    "address": "",
+    "postCode": "",
+    "city": "",
+    "country": "",
+    "email": ""
+  }
+}]
