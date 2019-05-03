@@ -50,8 +50,24 @@
     "queryable": true
   }
   ]
-}
- 
+},
+{
+  "title": "Precipitación 2",
+  "url": "http://betaserver.icgc.cat/dades/raster_test.zip",
+  "directoryUrl": "",
+  "abstract": "Precipitación2",
+  "extent": [
+  	40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545
+  ],
+  "serviceInterfaceType": "Raster",
+  "layers": [
+    {
+    "title": "Precipitación 2",
+    "name": "Precipitacion",
+    "queryable": true
+  }
+  ]
+} 
  
  
 ]
