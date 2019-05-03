@@ -112,8 +112,8 @@
   }
 },
 {
-  "title": "Cims",
-  "url": "http://webservices.maps.canada.ca/arcgis/services/PHAC/fluwatchers_en/MapServer/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities",
+  "title": "100 Cims",
+  "url": "http://betaserver.icgc.cat/dades/100cims.zip",
   "directoryUrl": "http://directory.spatineo.com/service/102676",
   "abstract": "FluWatchers is an online health surveillance system. It helps monitor the spread of flu-like illness across Canada. FluWatchers relies on Canadians to volunteer 15 seconds of their time each week to answer 2 questions about their health. \nSign up to be a Fluwatcher.\n\nNote: Only areas where there are five or more weekly reporters are included in the map. The reported rates of cough and fever are a reflection of the surveillance data available to FluWatch at the time of production. Delays in reporting of data may cause data to change retrospectively.",
   "extent": [
