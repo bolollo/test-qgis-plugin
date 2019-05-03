@@ -1,6 +1,6 @@
 [{
 "title": "Topo ICGC",
-  "url": "http://geoserveis.icgc.cat/icc_mapesbase/wms/service?SERVICE=WMS&REQUEST=GetCapabilities",
+  "url": "http://geoserveis.icgc.cat/icc_mapesbase/wms/service",
   "directoryUrl": "http://directory.spatineo.com/service/102676",
   "abstract": "WMS",
   "extent": [
