@@ -25,6 +25,13 @@
   "extent": [
   	40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545
   ],
-  "serviceInterfaceType": "Vector"
+  "serviceInterfaceType": "Vector",
+  "layers": [
+    {
+    "title": "100 Cims",
+    "name": "cims",
+    "queryable": true
+  }
+  ]
 } 
 ]
