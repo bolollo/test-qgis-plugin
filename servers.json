@@ -1,6 +1,6 @@
 [{
 "title": "Topo ICGC",
-  "url": "http://geoserveis.icc.cat/icc_mapesmultibase/noutm/wms/service",
+  "url": "http://geoserveis.icgc.cat/icc_mapesbase/wms/service",
   "directoryUrl": "",
   "abstract": "WMS",
   "extent": [
@@ -18,7 +18,7 @@
   "layers": [
   {
     "title": "Topografic",
-    "name": "topo",
+    "name": "mtc25m",
     "queryable": false
   }
   ],
